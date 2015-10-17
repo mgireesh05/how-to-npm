@@ -1,0 +1,21 @@
+{
+  "name": "dev_environment",
+  "version": "1.0.1",
+  "description": "Dev Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "m.gireesh05@gmail.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgireesh05/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mgireesh05/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/mgireesh05/how-to-npm#readme"
+}
